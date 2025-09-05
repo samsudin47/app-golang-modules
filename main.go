@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	say_hello "github.com/samsudin47/go-module"
+	say_hello "github.com/samsudin47/go-module/v2"
 )
 
 func main() {
-	fmt.Println(say_hello.SayHello())
+	fmt.Println(say_hello.SayHello("Samsudin"))
 }
 
 // cara menggunakan module dari github
