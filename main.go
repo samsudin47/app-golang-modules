@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	say_hello "github.com/samsudin47/go-module/v2"
+	say_hello "github.com/samsudin47/go-module/v3"
 )
 
 func main() {
