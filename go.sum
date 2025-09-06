@@ -2,3 +2,5 @@ github.com/samsudin47/go-module/v2 v2.0.0 h1:CECyy8da5L00NjkZPqT5z0GJj53FpU0oQHp
 github.com/samsudin47/go-module/v2 v2.0.0/go.mod h1:8L5hOQ0IB++0nA1fmIqF8C/fIpIdoP3mB+IvqnqHzZo=
 github.com/samsudin47/go-module/v3 v3.2.0 h1:VeG6Xb+OUQH3IJPAygMWFRgc7Qy11YOcNjb+ZkV/0/A=
 github.com/samsudin47/go-module/v3 v3.2.0/go.mod h1:TmCY/rz0oqU+7QpIBD3lD2z3nF9V4trgmKpGSsJ1+jA=
+github.com/samsudin47/go-module/v3 v3.2.2 h1:sYdpevOAncwmSSStZl8K4AjZ00Ei3ZaEjmsDlv5oSu4=
+github.com/samsudin47/go-module/v3 v3.2.2/go.mod h1:TmCY/rz0oqU+7QpIBD3lD2z3nF9V4trgmKpGSsJ1+jA=
